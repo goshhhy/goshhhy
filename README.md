@@ -6,7 +6,7 @@ just someone who writes code i guess
 #### pronouns?
 she/her please and thanks
 
-#### did you seriously just send me a patch to fix building on a 20 year old unsupported operating system
+#### did you seriously just send me a patch to fix building on a 20 year old unsupported platform
 yes. please accept it, i tried to keep it unintrusive.
 
 #### do you expect me to maintain official support for it?
