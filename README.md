@@ -1,16 +1,14 @@
-### Hi there 👋
+### fqa (frequently questioned answers)
 
-<!--
-**goshhhy/goshhhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### who?
+just someone who writes code i guess
 
-Here are some ideas to get you started:
+#### pronouns?
+she/her please and thanks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### did you seriously just send me a patch to fix building on a 20 year old unsupported operating system
+yes. please accept it, i tried to keep it unintrusive.
+
+#### do you expect me to maintain official support for it?
+no not really, if you break it i'll send more patches eventually. you don't need to ci it or anything (though you actually could if you really wanted). i'll do the work if you're willing to accept it
+
