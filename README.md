@@ -10,5 +10,4 @@ she/her please and thanks
 yes. please accept it, i tried to keep it unintrusive.
 
 #### do you expect me to maintain official support for it?
-no not really, if you break it i'll probably send more patches eventually. you don't need to ci it or anything (though you actually could if you really wanted). i'll do the work if you're willing to accept it
-
+no not really, if you break it i'll probably send more patches eventually. you don't need to ci it or anything (though you actually could if you really wanted).
