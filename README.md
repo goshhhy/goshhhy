@@ -4,10 +4,10 @@
 just someone who writes code i guess
 
 #### pronouns?
-she/her please and thanks
+she/her
 
-#### did you seriously just send me a patch to fix building on a 20 year old unsupported platform?
+#### did you really just send me a patch to fix building on $VERY_UNUSUAL_PLATFORM?
 yes
 
 #### why?
-i use it
+i use it.
