@@ -2,7 +2,7 @@
 
 #### who?
 
-i am linear. i also go by and have gone by some other names.
+i am linear. i also go by and have gone by some other names, and this is only one of about half a dozen github accounts i have across both professional and personal use.
 
 by day i semi-successfully pose as a moderately eccentric human woman, employed as an embedded systems software engineer. this has required me to work with things such as Yocto Linux, Android, Builtroot, OpenWRT, FreeRTOS, etc. sometimes it involves me writing C/C++ code.
 
